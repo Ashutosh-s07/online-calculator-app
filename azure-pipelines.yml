@@ -10,5 +10,5 @@ steps:
   inputs:
     azureSubscription: 'Towards-AzurePortal'
     appType: 'webAppLinux'
-    appName: 'web-appcalculator'
+    appName: 'web-caluculatorapp'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
